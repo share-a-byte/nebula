@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Browser from "./components/browser_card";
 import FileSystem from "./components/file_system";
 import { promises as fs } from "fs";
 

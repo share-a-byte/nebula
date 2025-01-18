@@ -1,4 +1,5 @@
 "use client";
+
 import { FC, useState } from "react";
 import { CiSquareChevDown, CiSquareChevUp } from "react-icons/ci";
 import { PiGraduationCap } from "react-icons/pi";
@@ -8,10 +9,11 @@ import { TbEyeSpark } from "react-icons/tb";
 import { VscSymbolMisc } from "react-icons/vsc";
 import { HiOutlineBackspace } from "react-icons/hi";
 import Browser from "./browser_card";
+import { IconType } from "react-icons";
 
 interface FileIconProps {
   name: string;
-  Icon: any;
+  Icon: IconType;
   color: string;
   click?: () => void;
 }
