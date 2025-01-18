@@ -195,9 +195,17 @@ const FileSystem = ({ data }: { data: WebsiteDirectory }) => {
               />
             </div>
           </div>
+          <div className="flex justify-end gap-2 mt-3">
+            <button className="px-4 py-1.5 bg-gradient-to-r from-purple-400 to-pink-400 text-white rounded hover:opacity-90 transition-opacity">
+              open
+            </button>
+            <button className="px-4 py-1.5 bg-gray-200 text-gray-700 rounded hover:bg-gray-300 transition-colors">
+              cancel
+            </button>
+          </div>
         </div>
       </div>
-      <div className="p-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">
+      <div className="p-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12 mb-16">
         {filteredData.length > 0 ? (
           filteredData.map((item, index) => (
             <Browser
