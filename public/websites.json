@@ -1,0 +1,202 @@
+{
+  "entertainment": [
+    {
+      "Website": "https://www.window-swap.com/",
+      "Description": "look into people's windows from around the world! not creepy, i promise",
+      "title": "Window-Swap"
+    },
+    {
+      "Website": "https://smartbitchestrashybooks.com/",
+      "Description": "for trashy romance lovers",
+      "title": "trashybooks"
+    },
+    {
+      "Website": "https://www.projectvanity.com/",
+      "Description": "remember beauty blogs? they're still around!",
+      "title": "projectvanity"
+    },
+    {
+      "Website": "https://weirdorconfusing.com/",
+      "Description": "scrolling through confusing things is more fun than I expected.",
+      "title": "Weirdorconfusing"
+    },
+    {
+      "Website": "https://www.fmylife.com/",
+      "Description": "the craziest things happening to people",
+      "title": "Fmylife"
+    },
+    {
+      "Website": "https://www.codewars.com/",
+      "Description": "need to leetcode? here's a more fun version.",
+      "title": "Codewars"
+    },
+    {
+      "Website": "https://www.gofugyourself.com/",
+      "Description": "blog that's been going for 17 years!!",
+      "title": "Gofug"
+    }
+  ],
+  "games": [
+    {
+      "Website": "https://neal.fun/",
+      "Description": "the cutest games ever",
+      "title": "NealFun"
+    },
+    {
+      "Website": "https://maze.toys/",
+      "Description": "solve a maze :)",
+      "title": "MazeToys"
+    },
+    {
+      "Website": "https://sliding.toys/",
+      "Description": "8 puzzle",
+      "title": "SlidingToys"
+    },
+    {
+      "Website": "https://sudoku.com/",
+      "Description": "sudoku is fun I promise",
+      "title": "Sudoku"
+    },
+    {
+      "Website": "https://quickdraw.withgoogle.com/",
+      "Description": "ai drawing game",
+      "title": "Quickdraw"
+    },
+    {
+      "Website": "https://coolmathgames.com",
+      "Description": "you probably know what this is",
+      "title": "Coolmathgames"
+    },
+    {
+      "Website": "https://longdogechallenge.com",
+      "Description": "how long can you scroll?",
+      "title": "Longdoge"
+    }
+  ],
+  "learning": [
+    {
+      "Website": "https://codedex.io",
+      "Description": "coding tutorials that are actually fun",
+      "title": "Codedex"
+    },
+    {
+      "Website": "https://documentaryarea.com",
+      "Description": "free documentaries!!",
+      "title": "Documentaryarea"
+    },
+    {
+      "Website": "https://www.mbari.org/education/animals-of-the-deep/",
+      "Description": "deep in the sea...what do you see",
+      "title": "mbari"
+    },
+    {
+      "Website": "https://coursera.org",
+      "Description": "no more brainrot \ud83d\uded1 - learn for free from top unis",
+      "title": "Coursera"
+    },
+    {
+      "Website": "https://lumosity.com",
+      "Description": "brain teasers that increase your attention span",
+      "title": "Lumosity"
+    },
+    {
+      "Website": "https://duolingo.com",
+      "Description": "keep up your streak\u2757",
+      "title": "Duolingo"
+    },
+    {
+      "Website": "https://mapcrunch.com",
+      "Description": "teleport to random locations on google street view",
+      "title": "Mapcrunch"
+    }
+  ],
+  "miscellaneous": [
+    {
+      "Website": "https://myfridgefood.com",
+      "Description": "only have eggs? go on myfridgefood",
+      "title": "Myfridgefood"
+    },
+    {
+      "Website": "https://blitzortung.org",
+      "Description": "lightning strike monitoring",
+      "title": "Blitzortung Org"
+    },
+    {
+      "Website": "https://blahtherapy.com",
+      "Description": "chat about literally anything",
+      "title": "Blahtherapy"
+    },
+    {
+      "Website": "https://pointerpointer.com",
+      "Description": "this is really cool. trust me.",
+      "title": "Pointerpointer"
+    },
+    {
+      "Website": "https://zoomquilt.org",
+      "Description": "endless zoom into amazing art",
+      "title": "Zoomquilt Org"
+    },
+    {
+      "Website": "https://thispersondoesnotexist.com",
+      "Description": "these people...do not exist?? made for aspiring catfishers",
+      "title": "Thispersondoesnotexist"
+    },
+    {
+      "Website": "https://cat-bounce.com",
+      "Description": "cats bounce :)",
+      "title": "Cat-Bounce"
+    },
+    {
+      "Website": "https://stars.chromeexperiments.com",
+      "Description": "3d interactive map of the galaxy",
+      "title": "Stars Chromeexperiments"
+    },
+    {
+      "Website": "https://ncase.me/trust",
+      "Description": "the evolution of trust.",
+      "title": "Ncase"
+    },
+    {
+      "Website": "https://ted.com",
+      "Description": "talks by some of the smartest people in the world",
+      "title": "Ted"
+    },
+    {
+      "Website": "https://futureme.org",
+      "Description": "send a letter to your future self!!",
+      "title": "Futureme"
+    },
+    {
+      "Website": "https://howstuffworks.com",
+      "Description": "how stuff works.",
+      "title": "Howstuffworks"
+    },
+    {
+      "Website": "https://theuselessweb.com",
+      "Description": "find some useless websites",
+      "title": "Theuselessweb"
+    },
+    {
+      "Website": "https://presidentialham.com/",
+      "Description": "presidents holding hams. study for your history test without realizing it.",
+      "title": "Presidentialham"
+    }
+  ],
+  "music": [
+    {
+      "Website": "https://radio.garden",
+      "Description": "radio stations from ANYWHERE on earth",
+      "title": "Radio Garden"
+    },
+    {
+      "Website": "https://fractalfantasy.net",
+      "Description": "cool imagery, and fractals",
+      "title": "Fractalfantasy Net"
+    },
+    {
+      "Website": "https://www.music-map.com/",
+      "Description": "find new artists to listen to!",
+      "title": "Music-Map"
+    }
+  ]
+}
